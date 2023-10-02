@@ -1,0 +1,5 @@
+# We are spefifying the pattern of files that should remain untracked by Git
+.classpath
+.project
+.settings
+target/
